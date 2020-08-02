@@ -1,0 +1,70 @@
+﻿<Window x:Class="SEEL.LinguisticProcessor.LinguisticChangeMultipleWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SEEL.LinguisticProcessor"
+        mc:Ignorable="d"
+        Name="LinguisticChangeW" Title="Linguistic Change" Height="454.22" Width="559.648" WindowState="Normal" ResizeMode="CanMinimize">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="19"/>
+            <RowDefinition Height="127"/>
+            <RowDefinition Height="124"/>
+            <RowDefinition Height="124"/>
+            <RowDefinition Height="95"/>
+        </Grid.RowDefinitions>
+        <!-- Menu -->
+        <Menu x:Name="Tools_mn" HorizontalAlignment="Left" Height="19" VerticalAlignment="Top" Width="41" Grid.Row="0">
+            <MenuItem Header="_Tools">
+                <MenuItem Header="_Word Extractor" Click="WordExtractor_click"/>
+                <MenuItem Header="_Linguistic Change" Click="LinguisticChange_click"/>
+                <MenuItem Header="_Link Extractor" />
+                <MenuItem Header="_Project Downloader" />
+                <MenuItem Header="_Projects Statistics" Click="ProjectsStatistics_click"/>
+                <Separator />
+                <MenuItem Header="_Exit" />
+            </MenuItem>
+        </Menu>
+        <!-- Projects path -->
+        <GroupBox x:Name="Source" Header="Linguistic Change 1st and last releases: multiple projects" HorizontalAlignment="Left" Height="107" Margin="10,10,0,0" VerticalAlignment="Top" Width="534" Grid.Row="1">
+            <Grid>
+                <Button x:Name="FirstAndLastRelease_bt" Content="Browse..." HorizontalAlignment="Left" Margin="10,26,0,0" VerticalAlignment="Top" Width="75" Click="FirstAndLastBrowse_click" Height="19" />
+                <TextBox x:Name="FolderProjects" HorizontalAlignment="Left" Height="20" Margin="111,25,0,0" TextWrapping="Wrap" Text="Select folder(s)..." Foreground="Gray" VerticalAlignment="Top" Width="401" IsReadOnly="True" IsEnabled="False" />
+                <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="10,5,0,0" TextWrapping="Wrap" Text="Select the folders of the projects" VerticalAlignment="Top" Width="480" />
+            </Grid>
+        </GroupBox>
+        <!-- Extraction options -->
+        <Button x:Name="SeveralProjectsStartCalculation_bt" Content="Calculate!" HorizontalAlignment="Left" Margin="451,87,0,0" VerticalAlignment="Top" Width="75" Click="SeveralProjectsStartCalculation_click" Height="20" Grid.Row="1" IsEnabled="False"/>
+        <!-- Status Bar -->
+        <StatusBar Name="StatusBar" HorizontalAlignment="Stretch" Height="24" VerticalAlignment="Top" Grid.Row="4">
+            <Grid Width="544">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="69*"/>
+                    <ColumnDefinition Width="457*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock x:Name="StatusBlock" Margin="5,0,10,0" Text="{Binding Status}" Grid.Column="1"/>
+                <TextBlock x:Name="Progress" Text="{Binding Progress}" />
+            </Grid>
+        </StatusBar>
+        <GroupBox x:Name="Source_Copy" Header="Interquartile Linguistic Change: multiple projects" HorizontalAlignment="Left" Height="107" Margin="10,10,0,0" VerticalAlignment="Top" Width="534" Grid.Row="2">
+            <Grid>
+                <Button x:Name="Interquartile_bt" Content="Browse..." HorizontalAlignment="Left" Margin="10,26,0,0" VerticalAlignment="Top" Width="75" Click="InterquartileBrowse_click" Height="19" />
+                <TextBox x:Name="FolderProjects1" HorizontalAlignment="Left" Height="20" Margin="111,25,0,0" TextWrapping="Wrap" Text="Select folder(s)..." Foreground="Gray" VerticalAlignment="Top" Width="401" IsReadOnly="True" IsEnabled="False" />
+                <TextBlock x:Name="textBlock1" HorizontalAlignment="Left" Margin="10,5,0,0" TextWrapping="Wrap" Text="Select the folders of the projects" VerticalAlignment="Top" Width="480" />
+            </Grid>
+        </GroupBox>
+        <CheckBox x:Name="IsAverageBt" Content="Calculate the averages" HorizontalAlignment="Left" Margin="27,89,0,0" Grid.Row="2" VerticalAlignment="Top" Height="15" Width="139" Checked="CalculateAverages_checked" Unchecked="CalculateAverages_unchecked"/>
+        <Button x:Name="InterquartileStartCalculation_bt" Content="Calculate!" HorizontalAlignment="Left" Margin="451,86,0,0" VerticalAlignment="Top" Width="75" Click="InterquartileStartCalculation_click" Height="20" Grid.Row="2" IsEnabled="False"/>
+        <GroupBox x:Name="Source_Copy1" Header="Average Linguistic Change: multiple projects" HorizontalAlignment="Left" Height="107" Margin="10,12,0,0" VerticalAlignment="Top" Width="534" Grid.Row="3">
+            <Grid>
+                <Button x:Name="Survival_bt" Content="Browse..." HorizontalAlignment="Left" Margin="10,26,0,0" VerticalAlignment="Top" Width="75" Click="SurvivalBrowse_click" Height="19" />
+                <TextBox x:Name="FolderProjects2" HorizontalAlignment="Left" Height="20" Margin="111,25,0,0" TextWrapping="Wrap" Text="Select folder(s)..." Foreground="Gray" VerticalAlignment="Top" Width="401" IsReadOnly="True" IsEnabled="False" />
+                <TextBlock x:Name="textBlock2" HorizontalAlignment="Left" Margin="10,5,0,0" TextWrapping="Wrap" Text="Select the folders of the projects" VerticalAlignment="Top" Width="480" />
+                <RadioButton GroupName="WordsOrLengthsSelector" Content="By word types" HorizontalAlignment="Left" Margin="10,60,0,0" VerticalAlignment="Top" Checked="CalculateWordTypes_checked" Unchecked="CalculateWordTypes_unchecked" IsChecked="True"/>
+                <RadioButton GroupName="WordsOrLengthsSelector" Content="By word lengths" HorizontalAlignment="Left" Margin="111,60,0,0" VerticalAlignment="Top" Checked="CalculateWordLengths_checked" Unchecked="CalculateWordLengths_unchecked"/>
+            </Grid>
+        </GroupBox>
+        <Button x:Name="SurvivalStartCalculation_bt" Content="Calculate!" HorizontalAlignment="Left" Margin="451,82,0,0" VerticalAlignment="Top" Width="75" Click="SurvivalStartCalculation_click" Height="20" Grid.Row="3" IsEnabled="False"/>
+    </Grid>
+</Window>

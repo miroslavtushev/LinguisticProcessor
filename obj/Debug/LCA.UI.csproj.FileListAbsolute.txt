@@ -1,0 +1,121 @@
+C:\Users\mtushe1\Desktop\LCA.UI\LCA.UI\LCA.UI\obj\Debug\LCA.UI.csprojAssemblyReference.cache
+C:\Users\mtushe1\Desktop\LCA.UI\LCA.UI\LCA.UI\obj\Debug\MainWindow.g.cs
+C:\Users\mtushe1\Desktop\LCA.UI\LCA.UI\LCA.UI\obj\Debug\App.g.cs
+C:\Users\mtushe1\Desktop\LCA.UI\LCA.UI\LCA.UI\obj\Debug\LCA.UI_MarkupCompile.cache
+C:\Users\mtushe1\Desktop\LCA.UI\LCA.UI\LCA.UI\obj\Debug\LCA.UI_MarkupCompile.lref
+C:\Users\mtushe1\Desktop\LCA.UI\LCA.UI\obj\Debug\LCA.UI.csprojAssemblyReference.cache
+C:\Users\mtushe1\Desktop\LCA.UI\LCA.UI\obj\Debug\MainWindow.g.cs
+C:\Users\mtushe1\Desktop\LCA.UI\LCA.UI\obj\Debug\App.g.cs
+C:\Users\mtushe1\Desktop\LCA.UI\LCA.UI\obj\Debug\LCA.UI_MarkupCompile.cache
+C:\Users\mtushe1\Desktop\LCA.UI\LCA.UI\obj\Debug\LCA.UI_MarkupCompile.lref
+C:\Users\mtushe1\Desktop\gdfg\LCA.UI\LCA.UI\obj\Debug\LCA.UI.csprojAssemblyReference.cache
+C:\Users\mtushe1\Desktop\gdfg\LCA.UI\LCA.UI\obj\Debug\MainWindow.g.cs
+C:\Users\mtushe1\Desktop\gdfg\LCA.UI\LCA.UI\obj\Debug\App.g.cs
+C:\Users\mtushe1\Desktop\gdfg\LCA.UI\LCA.UI\bin\Debug\log4net.dll
+C:\Users\mtushe1\Desktop\gdfg\LCA.UI\LCA.UI\bin\Debug\Octokit.dll
+C:\Users\mtushe1\Desktop\gdfg\LCA.UI\LCA.UI\bin\Debug\System.IO.Compression.dll
+C:\Users\mtushe1\Desktop\gdfg\LCA.UI\LCA.UI\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\mtushe1\Desktop\gdfg\LCA.UI\LCA.UI\bin\Debug\log4net.xml
+C:\Users\mtushe1\Desktop\gdfg\LCA.UI\LCA.UI\bin\Debug\Octokit.xml
+C:\Users\mtushe1\Desktop\gdfg\LCA.UI\LCA.UI\obj\Debug\MainWindow.baml
+C:\Users\mtushe1\Desktop\gdfg\LCA.UI\LCA.UI\obj\Debug\LCA.UI.csproj.GenerateResource.cache
+C:\Users\mtushe1\Desktop\gdfg\LCA.UI\LCA.UI\obj\Debug\LCA.UI.csproj.CoreCompileInputs.cache
+C:\Users\mtushe1\Desktop\gdfg\LCA.UI\LCA.UI\obj\Debug\LCA.UI.csproj.CopyComplete
+C:\Users\mtushe1\Desktop\gdfg\LCA.UI\LCA.UI\obj\Debug\Program_MarkupCompile.cache
+C:\Users\mtushe1\Desktop\gdfg\LCA.UI\LCA.UI\obj\Debug\Program_MarkupCompile.lref
+C:\Users\mtushe1\Desktop\gdfg\LCA.UI\LCA.UI\bin\Debug\Program.exe.config
+C:\Users\mtushe1\Desktop\gdfg\LCA.UI\LCA.UI\bin\Debug\Program.exe
+C:\Users\mtushe1\Desktop\gdfg\LCA.UI\LCA.UI\bin\Debug\Program.pdb
+C:\Users\mtushe1\Desktop\gdfg\LCA.UI\LCA.UI\obj\Debug\Program.g.resources
+C:\Users\mtushe1\Desktop\gdfg\LCA.UI\LCA.UI\obj\Debug\Program.exe
+C:\Users\mtushe1\Desktop\gdfg\LCA.UI\LCA.UI\obj\Debug\Program.pdb
+C:\Users\mtushe1\Desktop\gdfg\LCA.UI\LCA.UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\mtushe1\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\bin\Debug\Program.exe.config
+C:\Users\mtushe1\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\bin\Debug\Program.exe.manifest
+C:\Users\mtushe1\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\bin\Debug\Program.application
+C:\Users\mtushe1\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\bin\Debug\Program.exe
+C:\Users\mtushe1\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\bin\Debug\Program.pdb
+C:\Users\mtushe1\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\bin\Debug\IronPython.xml
+C:\Users\mtushe1\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\bin\Debug\IronPython.Modules.xml
+C:\Users\mtushe1\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\bin\Debug\IronPython.SQLite.xml
+C:\Users\mtushe1\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\bin\Debug\IronPython.Wpf.xml
+C:\Users\mtushe1\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\bin\Debug\log4net.xml
+C:\Users\mtushe1\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\mtushe1\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\bin\Debug\Microsoft.Scripting.xml
+C:\Users\mtushe1\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\mtushe1\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\bin\Debug\Octokit.xml
+C:\Users\mtushe1\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\bin\Debug\OxyPlot.xml
+C:\Users\mtushe1\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\mtushe1\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\obj\Debug\Windows\LinguisticChangeSingleWindow.g.cs
+C:\Users\mtushe1\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\obj\Debug\Windows\ProjectsStatsWindow.g.cs
+C:\Users\mtushe1\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\obj\Debug\Windows\SettingsWindow.g.cs
+C:\Users\mtushe1\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\obj\Debug\Windows\WordExtractorSingleWindow.g.cs
+C:\Users\mtushe1\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\obj\Debug\Windows\App.g.cs
+C:\Users\mtushe1\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\obj\Debug\Program_Content.g.cs
+C:\Users\mtushe1\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\obj\Debug\Program_MarkupCompile.cache
+C:\Users\mtushe1\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\obj\Debug\Program_MarkupCompile.lref
+C:\Users\mtushe1\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\obj\Debug\Windows\LinguisticChangeSingleWindow.baml
+C:\Users\mtushe1\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\obj\Debug\Windows\ProjectsStatsWindow.baml
+C:\Users\mtushe1\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\obj\Debug\Windows\SettingsWindow.baml
+C:\Users\mtushe1\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\obj\Debug\Windows\WordExtractorSingleWindow.baml
+C:\Users\mtushe1\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\obj\Debug\Program.g.resources
+C:\Users\mtushe1\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\mtushe1\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\obj\Debug\LCA.UI.csproj.GenerateResource.cache
+C:\Users\mtushe1\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\obj\Debug\Program.exe.manifest
+C:\Users\mtushe1\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\obj\Debug\Program.application
+C:\Users\mtushe1\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\obj\Debug\LCA.UI.csproj.CopyComplete
+C:\Users\mtushe1\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\obj\Debug\Program.exe
+C:\Users\mtushe1\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\obj\Debug\Program.pdb
+C:\Users\mtushe1\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\obj\Debug\Windows\ProjectsDownloaderWindow.g.cs
+C:\Users\mtushe1\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\obj\Debug\Windows\ProjectsDownloaderWindow.baml
+S:\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\bin\Debug\Program.exe.config
+S:\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\bin\Debug\Program.exe.manifest
+S:\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\bin\Debug\Program.application
+S:\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\bin\Debug\Program.exe
+S:\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\bin\Debug\Program.pdb
+S:\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\bin\Debug\IronPython.xml
+S:\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\bin\Debug\IronPython.Modules.xml
+S:\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\bin\Debug\IronPython.SQLite.xml
+S:\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\bin\Debug\IronPython.Wpf.xml
+S:\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\bin\Debug\log4net.xml
+S:\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\bin\Debug\Microsoft.Dynamic.xml
+S:\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\bin\Debug\Microsoft.Scripting.xml
+S:\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\bin\Debug\Microsoft.Scripting.Metadata.xml
+S:\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\bin\Debug\Octokit.xml
+S:\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\bin\Debug\OxyPlot.xml
+S:\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\bin\Debug\OxyPlot.Wpf.xml
+S:\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\obj\Debug\LCA.UI.csprojAssemblyReference.cache
+S:\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\obj\Debug\Windows\LinguisticChangeMultipleWindow.g.cs
+S:\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\obj\Debug\Windows\LinguisticChangeSingleWindow.g.cs
+S:\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\obj\Debug\Windows\ProjectsStatsWindow.g.cs
+S:\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\obj\Debug\Windows\ProjectsDownloaderWindow.g.cs
+S:\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\obj\Debug\Windows\SettingsWindow.g.cs
+S:\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\obj\Debug\Windows\WordExtractorMultipleWindow.g.cs
+S:\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\obj\Debug\Windows\WordExtractorSingleWindow.g.cs
+S:\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\obj\Debug\Windows\App.g.cs
+S:\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\obj\Debug\Program_Content.g.cs
+S:\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\obj\Debug\Program_MarkupCompile.cache
+S:\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\obj\Debug\Program_MarkupCompile.lref
+S:\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\obj\Debug\Windows\LinguisticChangeMultipleWindow.baml
+S:\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\obj\Debug\Windows\LinguisticChangeSingleWindow.baml
+S:\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\obj\Debug\Windows\ProjectsStatsWindow.baml
+S:\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\obj\Debug\Windows\ProjectsDownloaderWindow.baml
+S:\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\obj\Debug\Windows\SettingsWindow.baml
+S:\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\obj\Debug\Windows\WordExtractorMultipleWindow.baml
+S:\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\obj\Debug\Windows\WordExtractorSingleWindow.baml
+S:\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\obj\Debug\Program.g.resources
+S:\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\obj\Debug\UI.Properties.Resources.resources
+S:\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\obj\Debug\LCA.UI.csproj.GenerateResource.cache
+S:\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\obj\Debug\LCA.UI.csproj.CoreCompileInputs.cache
+S:\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\obj\Debug\Program.exe.manifest
+S:\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\obj\Debug\Program.application
+S:\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\obj\Debug\LCA.UI.csproj.CopyComplete
+S:\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\obj\Debug\Program.exe
+S:\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\obj\Debug\Program.pdb
+S:\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\obj\Debug\LCA.UI.csproj.Fody.CopyLocal.cache
+C:\Users\mtushe1\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\obj\Debug\LCA.UI.csproj.Fody.CopyLocal.cache
+C:\Users\mtushe1\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\obj\Debug\LCA.UI.csprojAssemblyReference.cache
+C:\Users\mtushe1\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\obj\Debug\Windows\WordExtractorMultipleWindow.g.cs
+C:\Users\mtushe1\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\obj\Debug\Windows\WordExtractorMultipleWindow.baml
+C:\Users\mtushe1\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\obj\Debug\Windows\LinguisticChangeMultipleWindow.g.cs
+C:\Users\mtushe1\Google Drive\RESEARCH\PhD\Code\src\LCA.UI\LCA.UI\obj\Debug\Windows\LinguisticChangeMultipleWindow.baml
